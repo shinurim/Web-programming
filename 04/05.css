@@ -1,0 +1,18 @@
+.main{
+    background-color: skyblue;
+}
+h3{
+    color:green;
+}
+#center{
+    text-align: center;
+    color:blue
+}
+#center>strong{
+    background-color: yellow;
+}
+.indent{
+    text-indent: 20%;
+}
+em{ font-style:italic; color:green}
+strong{ color:red }
